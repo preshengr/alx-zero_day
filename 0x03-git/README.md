@@ -1,4 +1,3 @@
-```markdown
 # Alx-Zero_day
 
 Welcome to the Alx-Zero_day repository! This repository is designed to help you get started with foundational concepts in software development. It covers topics such as version control (Git), Bash scripting, and introductory C programming.
@@ -45,4 +44,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy learning and coding!
-```
